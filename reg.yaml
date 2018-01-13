@@ -3,9 +3,9 @@ version: 3.5.2
 files:
   python: /bin/python
 dependencies:
-  - libpthread.so.0
-  - libc.so.6
-  - libdl.so.2
-  - libutil.so.1
-  - libz.so.1
-  - libm.so.6
+  - libpthread@0
+  - libc@6
+  - libdl@2
+  - libutil@1
+  - libz@1
+  - libm@6
