@@ -7,5 +7,6 @@ dependencies:
   - libc@6
   - libdl@2
   - libutil@1
+  - libexpat@1
   - libz@1
   - libm@6
