@@ -3,7 +3,7 @@ version: 3.5.2
 files:
   python: /bin/python
   python3.5: /usr/lib/python3.5
-dependencies:
+libs:
   - libpthread@0
   - libc@6
   - libdl@2
